@@ -10,7 +10,7 @@ v-
 *.ko
 *.obj
 *.elf
-
+*.ide-wal
 # Linker output
 *.ilk
 *.map
